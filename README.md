@@ -1,2 +1,0 @@
-# LVTrunkAutomatedFramework
-Automated Framework
